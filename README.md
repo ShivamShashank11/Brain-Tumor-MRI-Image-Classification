@@ -137,6 +137,5 @@ TensorFlow/Keras: Model training
 
 📬 Contact
 Author: Shivam Shashank
-Email: your_email@example.com
-GitHub: @yourusername
+Email: shivamshashank961@gmail.com
 ```
