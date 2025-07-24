@@ -1,0 +1,16 @@
+tensorflow==2.13.0
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+Pillow
+streamlit
+tensorflow-hub
+albumentations
+tqdm
+h5py
+scipy
+plotly
+python-multipart
